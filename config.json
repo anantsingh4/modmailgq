@@ -1,0 +1,9 @@
+{
+"token": "NDgxODY1OTM3NDY5OTY0MzA4.DmMdwA.8j0-WWY4Lxz9HMOa0jS1mmLXvto",
+  "mailGuildId": "469857845626667008",
+  "mainGuildId": "469857845626667008",
+  "logChannelId": "id of the channel on the inbox server where notifications of new logs etc. will be posted",
+
+  "status": "Message me for help!",
+  "responseMessage": "Thank you for your message! Our team will reply to you here as soon as possible."
+}
